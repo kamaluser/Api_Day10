@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kamal\\Desktop\\CourseApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\controllers\\groupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\exceptions\\httpexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\middlewares\\httpexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\middlewares\\httpexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\services\\crudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|c:\\users\\kamal\\desktop\\courseapp\\courseapp.ui\\services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{546DD9D3-65EF-4931-AB51-2DB45A7CBAD2}|CourseApp.UI\\CourseApp.UI.csproj|solutionrelative:courseapp.ui\\services\\icrudservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HttpExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Middlewares\\HttpExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Middlewares\\HttpExceptionMiddleware.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Middlewares\\HttpExceptionMiddleware.cs",
+              "RelativeToolTip": "CourseApp.UI\\Middlewares\\HttpExceptionMiddleware.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAiwBwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-21T13:57:10.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "CourseApp.UI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAuwDkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T22:02:47.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Program.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Program.cs",
+              "RelativeToolTip": "CourseApp.UI\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAACEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:43:45.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GroupController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Controllers\\GroupController.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Controllers\\GroupController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Controllers\\GroupController.cs",
+              "RelativeToolTip": "CourseApp.UI\\Controllers\\GroupController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAA0wBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:21:58.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HttpException.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Exceptions\\HttpException.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Exceptions\\HttpException.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Exceptions\\HttpException.cs",
+              "RelativeToolTip": "CourseApp.UI\\Exceptions\\HttpException.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAiwAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:20:00.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICrudService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Services\\ICrudService.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Services\\ICrudService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Services\\ICrudService.cs",
+              "RelativeToolTip": "CourseApp.UI\\Services\\ICrudService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:18:27.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CrudService.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Services\\CrudService.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Services\\CrudService.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Services\\CrudService.cs",
+              "RelativeToolTip": "CourseApp.UI\\Services\\CrudService.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAiwGIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T21:18:02.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseApp.UI\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\kamal\\Desktop\\CourseApp\\CourseApp.UI\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseApp.UI\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAANcAAAAAAAAAAAAAAOYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T12:45:32.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 222,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
